@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<order>
+    <courier>
+        <courierLastName>Smith</courierLastName>
+        <courierName>John</courierName>
+        <courierphoneNumber>867530589</courierphoneNumber>
+        <id>0</id>
+    </courier>
+    <id>0</id>
+    <orderAddress>Jasinskio g. 15</orderAddress>
+    <orderItems>
+        <id>0</id>
+        <orderItemQuantity>2</orderItemQuantity>
+        <product>
+            <category>
+                <categoryName>PhoneCase</categoryName>
+                <id>0</id>
+            </category>
+            <id>0</id>
+            <price>15</price>
+            <productName>Black Leather Phone Case</productName>
+        </product>
+    </orderItems>
+    <orderItems>
+        <id>0</id>
+        <orderItemQuantity>1</orderItemQuantity>
+        <product>
+            <category>
+                <categoryName>PhoneCase</categoryName>
+                <id>0</id>
+            </category>
+            <id>0</id>
+            <price>10</price>
+            <productName>White Plastic Case</productName>
+        </product>
+    </orderItems>
+    <user>
+        <admin>false</admin>
+        <id>0</id>
+        <userEmail>bob@gmail.com</userEmail>
+        <userName>Bob</userName>
+        <userPassword>123</userPassword>
+    </user>
+</order>
